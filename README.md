@@ -2,7 +2,7 @@
 
 This repository is a collection of TypeScript practice programs and code snippets. It is designed to improve TypeScript skills by focusing on syntax, type safety, and modern JavaScript/TypeScript features.
 
-## 📚 Purpose
+## Purpose
 
 - Learn and practice TypeScript syntax and typing system
 - Understand type annotations, interfaces, generics, and enums
@@ -11,7 +11,7 @@ This repository is a collection of TypeScript practice programs and code snippet
 
 > Note: Structure may vary depending on how your files are organized.
 
-## 🚀 How to Run
+## How to Run
 
 ### Prerequisites
 - [Node.js](https://nodejs.org) installed
