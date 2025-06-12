@@ -28,8 +28,6 @@ node filename.js  # Runs the compiled JavaScript
 npm install -g ts-node
 ts-node filename.ts
 
----
-
 ## 📌 Topics Covered
 Type Annotations (string, number, boolean, etc.)
 
